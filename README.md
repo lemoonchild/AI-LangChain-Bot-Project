@@ -56,4 +56,9 @@ The bot is designed to be user-friendly, with a simple command-line or GUI inter
 
 Video: https://youtu.be/qXujp6h_MHU
 
+Screenshots: 
+
+![image](https://github.com/user-attachments/assets/65b57521-e223-4185-ae49-f3c31ca15b56)
+
+![image](https://github.com/user-attachments/assets/be02bdb2-6b4a-43e2-9ee4-5c0904724eb4)
 
